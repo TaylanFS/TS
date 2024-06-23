@@ -1,0 +1,12 @@
+"use strict";
+let numeros;
+numeros = [1, 2, 3, 4, 5, 6];
+console.log(numeros);
+numeros.push(7);
+console.log(numeros);
+console.log('========');
+let filmes;
+filmes = ['Filme1', ' Filme2'];
+filmes.push('Filme3');
+console.log('Meus filmes de hoje: ' + filmes);
+console.log('==========');
